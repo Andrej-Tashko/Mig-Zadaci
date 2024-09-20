@@ -100,8 +100,7 @@ int Graph::sendFlow(int u, int flow, int t, int start[])
             // find minimum flow from u to t
             int curr_flow = min(flow, e.C - e.flow);
 
-            int temp_flow
-                    = sendFlow(e.v, curr_flow, t, start);
+            int temp_flow = sendFlow(e.v, curr_flow, t, start);
 
             // flow is greater than zero
             if (temp_flow > 0) {
