@@ -10,3 +10,4 @@ Domasni:
 8 - Patricia Trie
 9 - Levenshtein distance
 10 - Sieve of Eratosthenes
+11 - Long number operations
