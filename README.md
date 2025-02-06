@@ -8,6 +8,8 @@ Domasni:
 6 - Find and Reverse-Find using KMP algorithm
 7 - Rabin-Karp algorithm
 8 - Patricia Trie
-9 - Levenshtein distance
-10 - Sieve of Eratosthenes
-11 - Long number operations
+9 - Macedonian Trie
+10 - Levenshtein distance
+11 - Sieve of Eratosthenes
+12 - Long number operations
+13 - Long number factorization
